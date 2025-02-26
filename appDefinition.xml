@@ -1,0 +1,86 @@
+<appDefinition>
+   <id>rsu</id>
+   <version></version>
+   <name>RSU</name>
+   <packageDefinitionList/>
+   <formDefinitionList/>
+   <userviewDefinitionList/>
+   <datalistDefinitionList/>
+   <builderDefinitionList/>
+   <pluginDefaultPropertiesList/>
+   <environmentVariableList/>
+   <messageList>
+      <message>
+         <id>form.fileupload.remove
+_fr</id>
+         <appId>rsu</appId>
+         <appVersion>1</appVersion>
+         <messageKey>form.fileupload.remove
+</messageKey>
+         <locale>fr</locale>
+         <message>Supprimer</message>
+      </message>
+   </messageList>
+   <resourceList>
+      <appResource>
+         <id>2.jpg</id>
+         <appId>rsu</appId>
+         <appVersion>1</appVersion>
+         <filesize>234944</filesize>
+         <permissionClass>org.joget.apps.userview.lib.LoggedInUserPermission</permissionClass>
+         <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;org.joget.apps.userview.lib.LoggedInUserPermission&quot;, &quot;properties&quot;: {}}}</permissionProperties>
+      </appResource>
+      <appResource>
+         <id>amoirie.png</id>
+         <appId>rsu</appId>
+         <appVersion>1</appVersion>
+         <filesize>7778</filesize>
+         <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;&quot;, &quot;properties&quot;: {}}}</permissionProperties>
+      </appResource>
+      <appResource>
+         <id>banner-chat.jpg</id>
+         <appId>rsu</appId>
+         <appVersion>1</appVersion>
+         <filesize>476651</filesize>
+         <permissionClass>org.joget.apps.userview.lib.LoggedInUserPermission</permissionClass>
+         <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;org.joget.apps.userview.lib.LoggedInUserPermission&quot;, &quot;properties&quot;: {}}}</permissionProperties>
+      </appResource>
+      <appResource>
+         <id>banner.jpeg</id>
+         <appId>rsu</appId>
+         <appVersion>1</appVersion>
+         <filesize>154147</filesize>
+         <permissionClass>org.joget.apps.userview.lib.LoggedInUserPermission</permissionClass>
+         <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;org.joget.apps.userview.lib.LoggedInUserPermission&quot;, &quot;properties&quot;: {}}}</permissionProperties>
+      </appResource>
+      <appResource>
+         <id>Contact_Us___ANPS.png</id>
+         <appId>rsu</appId>
+         <appVersion>1</appVersion>
+         <filesize>24492</filesize>
+         <permissionClass>org.joget.apps.userview.lib.LoggedInUserPermission</permissionClass>
+         <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;org.joget.apps.userview.lib.LoggedInUserPermission&quot;, &quot;properties&quot;: {}}}</permissionProperties>
+      </appResource>
+      <appResource>
+         <id>image.png</id>
+         <appId>rsu</appId>
+         <appVersion>1</appVersion>
+         <filesize>2052007</filesize>
+         <permissionProperties>{&quot;hashvariable&quot;:&quot;#appResource.image.png#&quot;,&quot;permission&quot;:{&quot;className&quot;:&quot;&quot;,&quot;properties&quot;:{}}}</permissionProperties>
+      </appResource>
+      <appResource>
+         <id>logo_(1).png</id>
+         <appId>rsu</appId>
+         <appVersion>1</appVersion>
+         <filesize>21945</filesize>
+         <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;&quot;, &quot;properties&quot;: {}}}</permissionProperties>
+      </appResource>
+      <appResource>
+         <id>logo.png</id>
+         <appId>rsu</appId>
+         <appVersion>1</appVersion>
+         <filesize>29641</filesize>
+         <permissionProperties>{&quot;permission&quot;: { &quot;className&quot;: &quot;&quot;, &quot;properties&quot;: {}}}</permissionProperties>
+      </appResource>
+   </resourceList>
+</appDefinition>
