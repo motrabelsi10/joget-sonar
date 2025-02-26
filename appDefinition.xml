@@ -173,17 +173,6 @@
                </packageActivityForm>
             </entry>
             <entry>
-               <string>validation_communitaire::lancement_de_la_commission</string>
-               <packageActivityForm>
-                  <processDefId>validation_communitaire</processDefId>
-                  <activityDefId>lancement_de_la_commission</activityDefId>
-                  <formId>lancement_commission</formId>
-                  <type>SINGLE</type>
-                  <autoContinue>true</autoContinue>
-                  <disableSaveAsDraft>true</disableSaveAsDraft>
-               </packageActivityForm>
-            </entry>
-            <entry>
                <string>validation_communitaire::planification_de_la_commission</string>
                <packageActivityForm>
                   <processDefId>validation_communitaire</processDefId>
